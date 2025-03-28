@@ -1,0 +1,108 @@
+[
+    {
+        "name":"table",
+        "materials_top": [
+            {
+                "material":"Wood",
+                "color_palette":"wood"
+            },
+            {
+                "material":"Wood Plank",
+                "color_palette":"wood"
+            },
+            {
+                "material":"Scratched Plastic",
+                "color_palette":"rgb"
+            },
+            {
+                "material":"Ceramic",
+                "color_palette":"rgb"
+            },
+            {
+                "material":"Marble",
+                "color_palette":"marble"
+            },
+            {
+                "material":"Veined Marble",
+                "color_palette":"veined_marble"
+            }
+        ],
+        "materials_bottom": [
+            {
+                "material":"Wood",
+                "color_palette":"wood"
+            },
+            {
+                "material":"Metal",
+                "color_palette":"metal"
+            }
+        ]
+        
+    },
+    {
+        "name":"chair",
+        "materials_top": [
+            {
+                "material":"Wood",
+                "color_palette":"wood"
+            },
+            {
+                "material":"Wood Plank",
+                "color_palette":"wood"
+            },
+            {
+                "material":"Scratched Plastic",
+                "color_palette":"rgb"
+            }
+        ],
+        "materials_bottom": [
+            {
+                "material":"Wood",
+                "color_palette":"wood"
+            }
+        ]
+    },
+    {
+        "name":"room",
+        "floor_materials": [
+            {
+                "material":"Carpet",
+                "color_palette":"carpet"
+            },
+            {
+                "material":"Wood Plank",
+                "color_palette":"wood"
+            },
+            {
+                "material":"Checkered Marble",
+                "color_palette":"checkered_marble"
+            },
+            {
+                "material":"Tile Square",
+                "color_palette":"tile"
+            },
+            {
+                "material":"Tile Rectangle",
+                "color_palette":"tile"
+            },
+            {
+                "material":"Marble Tile",
+                "color_palette":"veined_marble"
+            }
+        ],
+        "wall_materials": [
+            {
+                "material":"Brick",
+                "color_palette":"brick"
+            },
+            {
+                "material":"Plaster",
+                "color_palette":"rgb"
+            },
+            {
+                "material":"Concrete",
+                "color_palette":"concrete"
+            }
+        ]
+    }
+]

@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+*.blend1
+.vscode/
+blender_scripts/__pycache__
