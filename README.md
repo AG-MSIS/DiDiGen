@@ -3,6 +3,8 @@ DiDiGen - Blender Addon
 
 The Blender addon named "DiDiGen" comes with a Blender file and the addon to create images of randomized dining rooms and corresponding binary masks of visible clean and soiled plates in the images with the aim to create synthetic randomized datasets for training image segmentation models. Furthermore, a .csv-file will be created with additional information about each rendered scene such as the used materials, amount of forks on the table, etc.
 
+![Tableware Images](images/tableware_imgs.png)
+
 # Requirement
 
 ### For Usage
