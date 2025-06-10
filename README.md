@@ -125,3 +125,12 @@ Each material was developed with *Shader Nodes*.
 ## Further Notes
 - `Compositing`-Nodes under the `Composting`-workspace was used implement the rendering of the image and the corresponding binary mask.
 - The implementation of the environment lighting can be found in the `Shading`-workspace and changing the *Shader Type* from `object` to `world`.
+
+
+## Acknowledgments
+
+Most, if not all, procedural-generated materials are heavily inspired by the Youtube channel: Ryan King Art (https://www.youtube.com/@RyanKingArt)
+
+This work was developed for my master thesis "I Cannot Believe All this Dirt! - Analysis of Synthetic Soil-Based Occlusion on Tableware Detectors with a Procedural Tableware Data Generator" in the computer science program at the University of Bremen. I want to thank my supervisor Prof. Dr.-Ing. Udo Frese and Dr. Rene Weller for supporting me and reviewing my thesis.
+
+This work was further developed for the scientific publication named "DiDiGen - Dirty Dishes Generator for Randomized Visual Training Data" for the conference "28th Robot World Cup - RoboCup@Home 2025 (DSPL - OPL)" with Dr. Tim Laue, Arne Hasselbring and Prof. Dr.-Ing. Udo Frese.
