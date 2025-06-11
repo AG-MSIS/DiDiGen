@@ -3954,8 +3954,8 @@ class SceneRenderer:
         )  # / project_name"
         # render_dir_path.parent.mkdir(parents=True, exist_ok=True)
 
-        img_name = f"img_{index}_{random_seed}"
-        gt_name = f"gt_{index}_{random_seed}"
+        img_name = f"{index}_{random_seed}_img"
+        gt_name = f"{index}_{random_seed}_gt"
 
         bpy.context.scene.render.image_settings.file_format = "JPEG"
         bpy.context.scene.render.filepath = str(render_dir_path)
